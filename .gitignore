@@ -1,0 +1,13 @@
+# Compiled binaries
+dist/
+
+# Local Claude settings
+.claude/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PyInstaller build artifacts
+build/
+*.spec.bak
