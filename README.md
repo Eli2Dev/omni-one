@@ -20,3 +20,7 @@ python -m PyInstaller omnione_tray.spec --clean
 ```
 
 O executável gerado fica em `dist\\OmniOne Tray.exe`.
+
+---
+
+Made by [ProdByE²](https://github.com/Eli2Dev/omni-one)
